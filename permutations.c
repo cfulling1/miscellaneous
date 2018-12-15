@@ -1,3 +1,10 @@
+/*
+CS 458, Fall 2018, Dr. Rafiey
+Write a program to print out all the permutations of 
+1,2,...,n in which 2 appears before 1 
+(for example for n = 4; 1,3,2,4 is not a good one 
+but 2,4,1,3, 2,1,4,3 are both good ).
+*/
 #include <iostream>
 using namespace std;
 
