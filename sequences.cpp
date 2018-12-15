@@ -1,3 +1,9 @@
+/*
+CS 458, Fall 2018
+Prints out all the binary sequences of length n such that 
+in every preﬁx the number of 1’s is greater than the number of zero’s 
+and the total number of 1’s minus the total number of 0’s is exactly 3.
+*/
 #include <iostream>
 using namespace std;
 
